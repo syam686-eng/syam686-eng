@@ -1,5 +1,5 @@
 👋 Hi, I’m M.V.Syam Prasad.  
-Data Analyst | Business Intelligence Enthusiast | SQL | Power BI | Python | R  
+Data Analyst | Business Intelligence Enthusiast | SQL | Power BI | Python | R  Gen_AI for Data Analysis
 
 🌟 Welcome to my GitHub! I specialize in transforming raw data into actionable insights, delivering value to businesses through data-driven decisions.  
 
